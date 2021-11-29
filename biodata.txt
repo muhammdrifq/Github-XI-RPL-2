@@ -1,0 +1,10 @@
+Nama    : Muhammad Rifqi Hidayatulloh
+Kelas   : XI RPL 2
+Alamat  : Grha Rancamanyar
+Umur    : 16 Tahun
+Sekolah : SMK Assalaam Bandung
+
+note : Saya sedang belajar awalan github
+
+
+token : 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
